@@ -8,6 +8,8 @@ public class ana {
 		System.out.println("hello");
 		
 		System.out.println("india");
+	    System.out.println("USA");
+	
 	}
 
 }
