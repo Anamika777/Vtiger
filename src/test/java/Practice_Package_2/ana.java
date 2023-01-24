@@ -6,6 +6,8 @@ public class ana {
 
 		System.out.println("you  are good");
 		System.out.println("hello");
+		
+		System.out.println("india");
 	}
 
 }
