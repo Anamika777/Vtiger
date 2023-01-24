@@ -9,6 +9,8 @@ public class ana {
 		
 		System.out.println("india");
 	    System.out.println("USA");
+	    
+	    System.out.println();
 	
 	}
 
