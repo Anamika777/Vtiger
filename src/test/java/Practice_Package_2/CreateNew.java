@@ -6,6 +6,7 @@ public class CreateNew {
 		
 		
 		System.out.println("good morning delhi");
+		System.out.println("hello kanpur");
 	}
 
 }
